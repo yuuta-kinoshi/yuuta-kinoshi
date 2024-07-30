@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b51b8b&height=120&section=header&text=Pablo+Eduardo+/+Yuuta+Kinoshi&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b51b8b&height=120&section=header&text=Yuuta+Kinoshi&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35" />
 
 <span align='left'>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b51b8b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Yuuta+Kinoshi;I'm+18+years+old;I+from+Brasil,+MG;Be+Welcome!+:%29;初めまして、ゆうたとお申します！;１８歳です;ブラジル、MGから;ようこそ！<3)](https://git.io/typing-svg)</span>
 
